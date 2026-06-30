@@ -1,0 +1,12 @@
+{
+  "name": "workshop-seguro-v3",
+  "version": "1.0.0",
+  "description": "Lab de DevSecOps v3 - Nível Avançado",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "4.17.11", 
+    "serialize-to-js": "1.1.0",
+    "node-serialize": "0.0.4",
+    "ms": "0.7.1"
+  }
+}
